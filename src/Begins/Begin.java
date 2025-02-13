@@ -1,3 +1,4 @@
+/*Xujamurodov Javohirbek*/
 package Begins;
 
 import java.util.Scanner;

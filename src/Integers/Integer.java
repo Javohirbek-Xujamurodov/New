@@ -1,3 +1,4 @@
+/*Xujamurodov Javohirbek*/
 package Integers;
 import java.util.Scanner;
 
