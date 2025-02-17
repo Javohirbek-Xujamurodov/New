@@ -2,7 +2,7 @@ package Booleans;
 
 import java.util.Scanner;
 
-public class Boolean7 {
+public class Boolean09 {
     public static void main(String[] args) {
         Scanner scanner =  new Scanner(System.in);
 
@@ -11,9 +11,8 @@ public class Boolean7 {
 
         System.out.println(" Integers B : ");
         int b = scanner.nextInt();
-        System.out.println(" Integers C : ");
-        int c = scanner.nextInt();
-        System.out.println(b > a && c > b);
+
+        System.out.println((a % 2 != 0) || (b % 2 != 0));
     }
 }
 
